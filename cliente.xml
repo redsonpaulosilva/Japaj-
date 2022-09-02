@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Cliente>
+    <id>1</id>
+    <nome>Jurema da Silva</nome>
+    <contato>(84)996511011</contato>
+    <endereco>Rua praia de Sagi,Natal,RN</endereco>
+  </Cliente>
+  <Cliente>
+    <id>2</id>
+    <nome>Irineu Gomes</nome>
+    <contato>(84) 994569678</contato>
+    <endereco>Rua dos tororós, Macau, RN</endereco>
+  </Cliente>
+</ArrayOfCliente>
