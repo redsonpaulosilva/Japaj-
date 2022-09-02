@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduto xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Produto>
+    <Id>1</Id>
+    <Qtd>20</Qtd>
+    <Descricao>Sushi hot roll</Descricao>
+    <Valor>5</Valor>
+    <CategoriaId>1</CategoriaId>
+  </Produto>
+  <Produto>
+    <Id>2</Id>
+    <Qtd>25</Qtd>
+    <Descricao>yakissoba de carne</Descricao>
+    <Valor>15</Valor>
+    <CategoriaId>2</CategoriaId>
+  </Produto>
+  <Produto>
+    <Id>5</Id>
+    <Qtd>18</Qtd>
+    <Descricao>temaki salmão grelhado</Descricao>
+    <Valor>20</Valor>
+    <CategoriaId>3</CategoriaId>
+  </Produto>
